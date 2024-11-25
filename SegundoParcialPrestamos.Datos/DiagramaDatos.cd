@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="SegundoParcialPrestamos.Datos.EntidadFinanciera">
+    <Position X="0.5" Y="0.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAEAACAAACCAAAAAAAAAQAAgAAAAAAAIEAAAAA=</HashCode>
+      <FileName>EntidadFinanciera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SegundoParcialPrestamos.Datos.SerializadorJson">
+    <Position X="5" Y="2.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAgAAAABAAAEAAAEA=</HashCode>
+      <FileName>SerializadorJson.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="SegundoParcialPrestamos.Datos.IArchivo&lt;T&gt;">
+    <Position X="5.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAEAAAAA=</HashCode>
+      <FileName>IArchivo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
